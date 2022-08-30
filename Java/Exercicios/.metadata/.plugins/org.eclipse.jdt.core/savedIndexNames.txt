@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\thaas\Downloads\Generation\Modulo-1\Logica\Exercicios\Java\Exercicios\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1067094681.index
+2159265395.index
+1740463199.index

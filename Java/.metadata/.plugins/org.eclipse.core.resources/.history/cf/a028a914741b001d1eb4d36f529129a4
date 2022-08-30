@@ -1,0 +1,10 @@
+package patinete;
+
+public class PatineteClasse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

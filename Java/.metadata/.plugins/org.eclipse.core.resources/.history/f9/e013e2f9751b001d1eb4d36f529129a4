@@ -1,0 +1,5 @@
+package Paciente.model;
+
+public class Paciente {
+
+}

@@ -1,0 +1,21 @@
+package Funcionario;
+
+import java.util.Scanner;
+
+import Funcionario.model.Funcionario;
+
+public class FuncionarioClasse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Funcionario dados = new Funcionario(123, "João da Silva", "Suporte Técnico", "Maria Antonieta", 0);
+		Scanner leia = new Scanner (System.in);
+		
+		System.out.println("Digite sua ID: ");
+	
+		
+
+	}
+
+}

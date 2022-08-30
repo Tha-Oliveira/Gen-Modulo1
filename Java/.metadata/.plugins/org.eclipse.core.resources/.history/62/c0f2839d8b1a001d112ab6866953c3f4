@@ -1,0 +1,10 @@
+package ClienteClasse;
+
+public class ClienteClasse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

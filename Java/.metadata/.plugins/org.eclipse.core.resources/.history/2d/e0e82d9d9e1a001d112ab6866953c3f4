@@ -1,0 +1,16 @@
+package Aviao;
+
+import Aviao.model.ClasseAviao;
+
+public class Aviao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ClasseAviao aviao = new ClasseAviao("Latam", "Boeing", 737, "São Paulo", "Natal");
+		
+		System.out.println("\nNome da empresa Aérea: "+aviao.getEmpresa());
+
+	}
+
+}

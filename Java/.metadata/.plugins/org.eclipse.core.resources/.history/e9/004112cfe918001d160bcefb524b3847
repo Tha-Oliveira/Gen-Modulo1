@@ -1,0 +1,42 @@
+package JavaArray;
+
+import java.util.Scanner;
+
+public class ArrayVetor2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int [] num=new int [6];
+		int somaPar=0,somaImpar=0,contPar=0,contImpar=0,x;
+		
+		Scanner ler=new Scanner (System.in);
+		
+		for(x=0;x<6;x++)
+		{
+			System.out.printf("Digite um número: ");
+			num[x]=ler.nextInt();
+			{
+				if(num[x]%2==0)
+				{
+					somaPar+=num[x];
+					contPar++;
+				}
+				else
+				{
+					somaImpar+=num[x];
+					contImpar++;
+				}
+				
+				x++;
+			}
+		}
+		
+		System.out.printf("\nOs números pares foram: %d",contPar);
+		System.out.printf("\nA soma dos números pares foi de: %d",somaPar);
+		System.out.printf("\nOs números ímpares foram: %d",contImpar);
+		System.out.printf("\nA soma dos números ímpares foi de: %d",somaImpar);
+		
+	}
+
+}

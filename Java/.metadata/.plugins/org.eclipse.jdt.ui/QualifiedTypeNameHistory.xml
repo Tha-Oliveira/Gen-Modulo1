@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="ClasseCliente.model.ClasseCliente"/>
+    <fullyQualifiedTypeName name="Aviao.model.ClasseAviao"/>
+    <fullyQualifiedTypeName name="ProdutoEletronico.model.ProdutoEletronico"/>
+    <fullyQualifiedTypeName name="ClasseCliente.model.Cliente"/>
+    <fullyQualifiedTypeName name="Conta.model.Conta"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Funcionario.model.Funcionario"/>
+    <fullyQualifiedTypeName name="patinete.model.Patinete"/>
+    <fullyQualifiedTypeName name="Paciente.model.Paciente"/>
+</qualifiedTypeNameHistroy>
